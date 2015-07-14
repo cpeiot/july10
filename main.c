@@ -15,6 +15,8 @@ int main (void)
 
 //july 14th, changed to https and none key
 	printf("none key\n");
+
+//july 14th, watched whole video
 	echome();
 	return 0;
 }
