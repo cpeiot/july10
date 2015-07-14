@@ -10,6 +10,8 @@ int main (void)
 
 //july 14th, added Git jenkins webhook
 	printf("july14th\n");	
+//july 14th, followed the official guide
+	printf("july14th.2\n");
 	echome();
 	return 0;
 }
