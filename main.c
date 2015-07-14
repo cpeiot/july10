@@ -12,6 +12,9 @@ int main (void)
 	printf("july14th\n");	
 //july 14th, followed the official guide
 	printf("july14th.2\n");
+
+//july 14th, changed to https and none key
+	printf("none key\n");
 	echome();
 	return 0;
 }
